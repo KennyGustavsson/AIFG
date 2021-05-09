@@ -1,0 +1,62 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Cast_Iron_1"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=D66172484D50112C3A6B02B6A667C300
+   Parent=Material'"/Game/Old_Shipyard/Materials/M_Master_VertexPainted.M_Master_VertexPainted"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="BaseColor Contrast"),ExpressionGUID=E9500C7E46BC4389967440B82C2EC51D)
+   ScalarParameterValues(1)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="BaseColor Desaturation"),ExpressionGUID=06DACE09476B0EF5F3FE80AFCEA41B63)
+   ScalarParameterValues(2)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="Normal Control"),ParameterValue=-1.004054,ExpressionGUID=384AA36A4F0E8AD46763F1B6544F748F)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="Roughness Contrast"),ParameterValue=0.150694,ExpressionGUID=46E38F63413BA714A9288CAF2C2D12E1)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="Roughness Control"),ParameterValue=0.924623,ExpressionGUID=1065CDB94BD68602F4FA1A9214AA59B9)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="Tiling"),ParameterValue=2.500000,ExpressionGUID=56BE0F4343339D75104B82B105AC7900)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="Blend Invert VertexMask"),ParameterValue=0.923810,ExpressionGUID=3F321CA541A4083151324D8B6C3B7BB5)
+   ScalarParameterValues(7)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="Mask Power"),ParameterValue=3.176191,ExpressionGUID=0241BD7D4080ADBB47FD8A80E64D86AD)
+   ScalarParameterValues(8)=(ParameterInfo=(Name="Tiling_VertexPaint_G"),ParameterValue=1.000000,ExpressionGUID=4A17E6F844CAC61880A434B1A6B09F59)
+   ScalarParameterValues(9)=(ParameterInfo=(Name="VertexPaint_BaseColor_Contrast"),ParameterValue=0.004267,ExpressionGUID=C72B4B8B4A694EEA0C99F2980D205763)
+   ScalarParameterValues(10)=(ParameterInfo=(Name="VertexPaint_BaseColor_Desaturation"),ParameterValue=0.205715,ExpressionGUID=E7FAA2E84761BBD8F7A6D88C9424512A)
+   ScalarParameterValues(11)=(ParameterInfo=(Name="VertexPNormal_Control"),ExpressionGUID=4F44426649F20A203AF8DE82B5FDACA6)
+   ScalarParameterValues(12)=(ParameterInfo=(Name="VertexPRoughness_Control"),ParameterValue=1.000000,ExpressionGUID=0FCEA1064425EA106ECFC88B3AF3C760)
+   ScalarParameterValues(13)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="BaseColor Tint"),ParameterValue=(R=0.316667,G=0.316667,B=0.316667,A=1.000000),ExpressionGUID=92970E444BE684BCD0C72AAE0B1354CF)
+   TextureParameterValues(0)=(ParameterInfo=(Name="BaseColor"),ParameterValue=Texture2D'"/Game/Old_Shipyard/Textures/Tileable_Textures/T_CastIron_1_BaseColor.T_CastIron_1_BaseColor"',ExpressionGUID=6E974B7D4DD00AFEDEDDC3A5E56D265D)
+   TextureParameterValues(1)=(ParameterInfo=(Name="Normal"),ParameterValue=Texture2D'"/Game/Old_Shipyard/Textures/Tileable_Textures/T_CastIron_1_Normal.T_CastIron_1_Normal"',ExpressionGUID=833E1D214C61E2F9F858EC8F9A2A3CF6)
+   TextureParameterValues(2)=(ParameterInfo=(Name="OccRoughMetal"),ParameterValue=Texture2D'"/Game/Old_Shipyard/Textures/Tileable_Textures/T_CastIron_1_OcclusionRoughnessMetallic.T_CastIron_1_OcclusionRoughnessMetallic"',ExpressionGUID=1C84AAE845F69C3D6E93AB9FA679B7B0)
+   TextureParameterValues(3)=(ParameterInfo=(Name="VertexPaint_BaseColor_G"),ParameterValue=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Color.T_Moss_Color"',ExpressionGUID=C1E289904E9668B84FD0569421877F90)
+   TextureParameterValues(4)=(ParameterInfo=(Name="VertexPaint_Mask"),ParameterValue=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Roughness.T_Moss_Roughness"',ExpressionGUID=86B07BB642FE11EF0CED17802F049D28)
+   TextureParameterValues(5)=(ParameterInfo=(Name="VertexPaint_Normal"),ParameterValue=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Normal.T_Moss_Normal"',ExpressionGUID=0CA137ED4D32350F46C1B1BC78EFC2C9)
+   TextureParameterValues(6)=(ParameterInfo=(Name="VertexPaint_Roughness"),ParameterValue=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Roughness.T_Moss_Roughness"',ExpressionGUID=12642CE547498901609A218362E0D21F)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=3BE78F364B8EC1C7312C059E3D48A6EC
+   ReferencedTextureGuids(1)=A9F91E494CAF86870D71DA8AC7E3321D
+   ReferencedTextureGuids(2)=0D6AB40D4F6DCF4C008926A0966F6F67
+   ReferencedTextureGuids(3)=9CA50BC34A4CFD4C8165F3A4C12FDB30
+   ReferencedTextureGuids(4)=055E2B1948E9A7F21353F0AA75BE30FF
+   ReferencedTextureGuids(5)=6EA940F548DE079F60EBCF8DEC685766
+   ReferencedTextureGuids(6)=22B7A306487FA6000DFA35A5B34E98DC
+   ReferencedTextureGuids(7)=306647BA42AFF70D3E431690C347EF66
+   ReferencedTextureGuids(8)=F3ED713B4EB5E39CBF84CAA85B1EBFD9
+   CachedReferencedTextures(0)=Texture2D'"/Game/Old_Shipyard/Textures/T_Broom_1_OcclusionRoughnessMetallic.T_Broom_1_OcclusionRoughnessMetallic"'
+   CachedReferencedTextures(1)=Texture2D'"/Game/Old_Shipyard/Textures/T_Broom_1_Normal.T_Broom_1_Normal"'
+   CachedReferencedTextures(2)=Texture2D'"/Game/Old_Shipyard/Textures/T_Broom_1_BaseColor.T_Broom_1_BaseColor"'
+   CachedReferencedTextures(3)=Texture2D'"/Engine/EngineDebugMaterials/HeatmapGradient.HeatmapGradient"'
+   CachedReferencedTextures(4)=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Color.T_Moss_Color"'
+   CachedReferencedTextures(5)=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Roughness.T_Moss_Roughness"'
+   CachedReferencedTextures(6)=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Normal.T_Moss_Normal"'
+   CachedReferencedTextures(7)=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_SurfaceImperfection_Roughness.T_SurfaceImperfection_Roughness"'
+   CachedReferencedTextures(8)=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_SurfaceImperfection_basecolor.T_SurfaceImperfection_basecolor"'
+   CachedReferencedTextures(9)=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_SurfaceImperfection_normal.T_SurfaceImperfection_normal"'
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=2.500000,UVChannelIndex=0,TextureName="T_CastIron_1_BaseColor",TextureReference=/Game/Old_Shipyard/Textures/Tileable_Textures/T_CastIron_1_BaseColor.T_CastIron_1_BaseColor)
+   TextureStreamingData(1)=(SamplingScale=2.500000,UVChannelIndex=0,TextureName="T_CastIron_1_Normal",TextureReference=/Game/Old_Shipyard/Textures/Tileable_Textures/T_CastIron_1_Normal.T_CastIron_1_Normal)
+   TextureStreamingData(2)=(SamplingScale=2.500000,UVChannelIndex=0,TextureName="T_CastIron_1_OcclusionRoughnessMetallic",TextureReference=/Game/Old_Shipyard/Textures/Tileable_Textures/T_CastIron_1_OcclusionRoughnessMetallic.T_CastIron_1_OcclusionRoughnessMetallic)
+   TextureStreamingData(3)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Moss_Color",TextureReference=/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Color.T_Moss_Color)
+   TextureStreamingData(4)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Moss_Normal",TextureReference=/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Normal.T_Moss_Normal)
+   TextureStreamingData(5)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Moss_Roughness",TextureReference=/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Roughness.T_Moss_Roughness)
+   TextureStreamingData(6)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_SurfaceImperfection_basecolor",TextureReference=/Game/Old_Shipyard/Textures/VertexPaintTextures/T_SurfaceImperfection_basecolor.T_SurfaceImperfection_basecolor)
+   TextureStreamingData(7)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_SurfaceImperfection_normal",TextureReference=/Game/Old_Shipyard/Textures/VertexPaintTextures/T_SurfaceImperfection_normal.T_SurfaceImperfection_normal)
+   TextureStreamingData(8)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_SurfaceImperfection_Roughness",TextureReference=/Game/Old_Shipyard/Textures/VertexPaintTextures/T_SurfaceImperfection_Roughness.T_SurfaceImperfection_Roughness)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=2324A1B649EC8523078F33891F344F42
+End Object

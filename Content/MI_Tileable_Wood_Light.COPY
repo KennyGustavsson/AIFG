@@ -1,0 +1,49 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Tileable_Wood_Light"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=479AF7CE4C3ECC5B15938EB31F1348E4
+   Parent=Material'"/Game/Old_Shipyard/Materials/M_Master_VertexPainted.M_Master_VertexPainted"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="BaseColor Contrast"),ParameterValue=-0.004597,ExpressionGUID=E9500C7E46BC4389967440B82C2EC51D)
+   ScalarParameterValues(1)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="BaseColor Desaturation"),ParameterValue=-0.103673,ExpressionGUID=06DACE09476B0EF5F3FE80AFCEA41B63)
+   ScalarParameterValues(2)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="Normal Control"),ParameterValue=0.821143,ExpressionGUID=384AA36A4F0E8AD46763F1B6544F748F)
+   ScalarParameterValues(3)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="Tiling"),ParameterValue=2.000000,ExpressionGUID=56BE0F4343339D75104B82B105AC7900)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="BaseColor Tint"),ParameterValue=(R=0.354167,G=0.354167,B=0.354167,A=1.000000),ExpressionGUID=92970E444BE684BCD0C72AAE0B1354CF)
+   TextureParameterValues(0)=(ParameterInfo=(Name="BaseColor"),ParameterValue=Texture2D'"/Game/Old_Shipyard/Textures/Tileable_Textures/T_Wood_Light_BaseColor.T_Wood_Light_BaseColor"',ExpressionGUID=6E974B7D4DD00AFEDEDDC3A5E56D265D)
+   TextureParameterValues(1)=(ParameterInfo=(Name="Normal"),ParameterValue=Texture2D'"/Game/Old_Shipyard/Textures/Tileable_Textures/T_Wood_Light_Normal.T_Wood_Light_Normal"',ExpressionGUID=833E1D214C61E2F9F858EC8F9A2A3CF6)
+   TextureParameterValues(2)=(ParameterInfo=(Name="OccRoughMetal"),ParameterValue=Texture2D'"/Game/Old_Shipyard/Textures/Tileable_Textures/T_Wood_Light_OcclusionRoughnessMetallic.T_Wood_Light_OcclusionRoughnessMetallic"',ExpressionGUID=1C84AAE845F69C3D6E93AB9FA679B7B0)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=31CC5EF14DE04A6B6CBADAA7ED8F6C6E
+   ReferencedTextureGuids(1)=A9F91E494CAF86870D71DA8AC7E3321D
+   ReferencedTextureGuids(2)=0D6AB40D4F6DCF4C008926A0966F6F67
+   ReferencedTextureGuids(3)=9CA50BC34A4CFD4C8165F3A4C12FDB30
+   ReferencedTextureGuids(4)=055E2B1948E9A7F21353F0AA75BE30FF
+   ReferencedTextureGuids(5)=7148D0AA472358B4006C029EAA73B3E1
+   ReferencedTextureGuids(6)=22B7A306487FA6000DFA35A5B34E98DC
+   ReferencedTextureGuids(7)=306647BA42AFF70D3E431690C347EF66
+   ReferencedTextureGuids(8)=B27B7455491C9687C1FDA7A9A89DB8D0
+   CachedReferencedTextures(0)=Texture2D'"/Game/Old_Shipyard/Textures/T_Broom_1_OcclusionRoughnessMetallic.T_Broom_1_OcclusionRoughnessMetallic"'
+   CachedReferencedTextures(1)=Texture2D'"/Game/Old_Shipyard/Textures/T_Broom_1_Normal.T_Broom_1_Normal"'
+   CachedReferencedTextures(2)=Texture2D'"/Game/Old_Shipyard/Textures/T_Broom_1_BaseColor.T_Broom_1_BaseColor"'
+   CachedReferencedTextures(3)=Texture2D'"/Engine/EngineDebugMaterials/HeatmapGradient.HeatmapGradient"'
+   CachedReferencedTextures(4)=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Color.T_Moss_Color"'
+   CachedReferencedTextures(5)=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Roughness.T_Moss_Roughness"'
+   CachedReferencedTextures(6)=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Normal.T_Moss_Normal"'
+   CachedReferencedTextures(7)=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_SurfaceImperfection_Roughness.T_SurfaceImperfection_Roughness"'
+   CachedReferencedTextures(8)=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_SurfaceImperfection_basecolor.T_SurfaceImperfection_basecolor"'
+   CachedReferencedTextures(9)=Texture2D'"/Game/Old_Shipyard/Textures/VertexPaintTextures/T_SurfaceImperfection_normal.T_SurfaceImperfection_normal"'
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Moss_Color",TextureReference=/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Color.T_Moss_Color)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Moss_Normal",TextureReference=/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Normal.T_Moss_Normal)
+   TextureStreamingData(2)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Moss_Roughness",TextureReference=/Game/Old_Shipyard/Textures/VertexPaintTextures/T_Moss_Roughness.T_Moss_Roughness)
+   TextureStreamingData(3)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_SurfaceImperfection_basecolor",TextureReference=/Game/Old_Shipyard/Textures/VertexPaintTextures/T_SurfaceImperfection_basecolor.T_SurfaceImperfection_basecolor)
+   TextureStreamingData(4)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_SurfaceImperfection_normal",TextureReference=/Game/Old_Shipyard/Textures/VertexPaintTextures/T_SurfaceImperfection_normal.T_SurfaceImperfection_normal)
+   TextureStreamingData(5)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_SurfaceImperfection_Roughness",TextureReference=/Game/Old_Shipyard/Textures/VertexPaintTextures/T_SurfaceImperfection_Roughness.T_SurfaceImperfection_Roughness)
+   TextureStreamingData(6)=(SamplingScale=2.000000,UVChannelIndex=0,TextureName="T_Wood_Light_BaseColor",TextureReference=/Game/Old_Shipyard/Textures/Tileable_Textures/T_Wood_Light_BaseColor.T_Wood_Light_BaseColor)
+   TextureStreamingData(7)=(SamplingScale=2.000000,UVChannelIndex=0,TextureName="T_Wood_Light_Normal",TextureReference=/Game/Old_Shipyard/Textures/Tileable_Textures/T_Wood_Light_Normal.T_Wood_Light_Normal)
+   TextureStreamingData(8)=(SamplingScale=2.000000,UVChannelIndex=0,TextureName="T_Wood_Light_OcclusionRoughnessMetallic",TextureReference=/Game/Old_Shipyard/Textures/Tileable_Textures/T_Wood_Light_OcclusionRoughnessMetallic.T_Wood_Light_OcclusionRoughnessMetallic)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=584D1E1B4BED244600B23EA82AFFF399
+End Object
